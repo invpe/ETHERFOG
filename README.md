@@ -7,7 +7,7 @@ WiFi Pollution Sensor
 
 EtherFog is an open-source device designed to monitor and visualize the density of WiFi traffic in a given area, referred to as "WiFi pollution." Utilizing the ESP32's promiscuous mode, EtherFog passively scans WiFi channels and tallies the number of packets, giving users a real-time indication of the WiFi activity surrounding them.
 
-Features:
+# Features:
 
 - Channel Scanning: Hops across all WiFi channels, collecting data on WiFi traffic.
 - Real-Time Data: Displays the total count of WiFi packets detected as a live graph.
