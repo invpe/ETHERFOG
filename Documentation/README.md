@@ -8,6 +8,9 @@ If required, feel free to modify the sources to fit your needs
 
 # Data
 
+![image](https://github.com/invpe/ETHERFOG/assets/106522950/aaff89ac-a343-4ee4-bc72-f51879f1ee4e)
+
+
 EtherFog is only capturing count of wireless frames and averages the number when running,
 it can also report this number to [GridShell](https://github.com/invpe/GridShell) for visualization and data analysis purposes.
 
