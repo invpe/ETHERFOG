@@ -22,6 +22,17 @@ EtherFog is an open-source device designed to monitor and visualize the density 
 
 EtherFog operates by continuously hopping between WiFi channels (1 to 14), staying on each channel for a predefined interval. Every packet detected is counted, and this data is processed to compute a moving average, providing a stable measure of WiFi activity over time. The result is then visually represented through an RGB LED—green for low activity, transitioning to red for high activity levels, indicating the presence of dense WiFi traffic or "pollution."
 
+You can also use Serial Plotter functionality within Arduino IDE to plot the data over time.
+
+![image](https://github.com/invpe/ETHERFOG/assets/106522950/2a26cec0-304b-48b5-bec6-2287d25449ce)
+
+
+- value1 : count of wifi frames in the air
+- value2 : averaged count
+- value3 : maximum frame rssi
+- value4 : minimum frame rssi
+- value5 : number of access points broadcasting 
+
 
 # Applications:
 
