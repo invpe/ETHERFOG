@@ -27,6 +27,9 @@ EtherFog operates by continuously hopping between WiFi channels (1 to 14), stayi
 
 EtherFog is ideal for those who are sensitive to WiFi exposure or for anyone interested in the digital infrastructure of their environment. It can be used in homes, workplaces, or public spaces where understanding WiFi signal density is essential.
 
+The data from EtherFog can potentially lead to a broader discussion on the density of wireless signals in our daily lives and might encourage users to think more critically about their personal and public digital spaces. It can also serve as an educational tool, showing how WiFi technology permeates nearly every location, and might even lead to further research into the implications of living in such a digitally saturated environment.
+
+
 # Getting Started:
 
 To get started with EtherFog, clone the repository, follow the setup instructions, and flash your ESP32 with the provided code. Detailed documentation is available to guide you through the setup process and help you interpret the results. EtherFog is open source, you can also build and compile it with Arduino IDE to get your ESP32 running.
