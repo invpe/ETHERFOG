@@ -29,6 +29,21 @@ EtherFog is ideal for those who are sensitive to WiFi exposure or for anyone int
 
 The data from EtherFog can potentially lead to a broader discussion on the density of wireless signals in our daily lives and might encourage users to think more critically about their personal and public digital spaces. It can also serve as an educational tool, showing how WiFi technology permeates nearly every location, and might even lead to further research into the implications of living in such a digitally saturated environment.
 
+## Environmental Monitoring: 
+EtherFog could be integrated into a network of sensors to monitor the electromagnetic environment of public spaces, contributing data for urban planning and public health.
+
+## Public Awareness: 
+Provide real-time data to citizens about WiFi signal strength in different parts of the city through an app or public displays.
+
+## Signal-Free Zones: 
+In the development of new housing areas, EtherFog could be used to identify "quiet" zones with minimal WiFi signals, which could be marketed as a selling point for certain demographics
+
+## Health-Conscious Living: 
+For individuals concerned about potential health effects, EtherFog can help them monitor and manage their exposure in homes and workplaces.
+
+
+
+
 
 # Getting Started:
 
