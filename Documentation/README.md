@@ -11,12 +11,12 @@ If required, feel free to modify the sources to fit your needs
 EtherFog is only capturing count of wireless frames and averages the number when running,
 it can also report this number to [GridShell](https://github.com/invpe/GridShell) for visualization and data analysis purposes.
 
-# Data to GridShell
+However for simplicity use the Arduino Plotting functionality within the `tools` menu.
+
+# GridShell 
 
 You can enable this feature by enabling `#define GRIDSHELL` flag and providing your user id in the code.
 The data will be sent as an average value of 10 minutes run.
-
-# GridShell visualization
 
 Review the submitted data by opening [explorer](https://explorer.gridshelll.net:3000/) endpoint.
 Details are available [here](https://github.com/invpe/GridShell/blob/main/Documentation/Tutorials/Explorer.md)
