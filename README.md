@@ -1,5 +1,9 @@
 ![image](https://github.com/invpe/ETHERFOG/assets/106522950/6efdde3d-2a52-4932-a277-3117ba8989a3)
 
+<p align="center">
+  <i>Artistic vision of the EtherFog "sensor"</i>
+</p> 
+
 # ETHERFOG
 WiFi Pollution Sensor
 
@@ -25,4 +29,4 @@ EtherFog is ideal for those who are sensitive to WiFi exposure or for anyone int
 
 # Getting Started:
 
-To get started with EtherFog, clone the repository, follow the setup instructions, and flash your ESP32 with the provided code. Detailed documentation is available to guide you through the setup process and help you interpret the results.
+To get started with EtherFog, clone the repository, follow the setup instructions, and flash your ESP32 with the provided code. Detailed documentation is available to guide you through the setup process and help you interpret the results. EtherFog is open source, you can also build and compile it with Arduino IDE to get your ESP32 running.
